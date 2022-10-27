@@ -8,7 +8,7 @@
         <class>entity.Student</class>
         <properties>
             <property name="jakarta.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
-            <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/student"/>
+            <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/mydb"/>
             <property name="jakarta.persistence.jdbc.user" value="root"/>
             <property name="jakarta.persistence.jdbc.password" value=""/>
             <property name="jakarta.persistence.schema-generation.database.action" value="create"/>
